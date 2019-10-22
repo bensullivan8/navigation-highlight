@@ -64,7 +64,7 @@ body {
 p {
   font-family: Georgia, serif;
   margin: .3em;
-  padding: .5em;
+  padding: 0 .3em;
   line-height: 1.5rem;
 }
 
