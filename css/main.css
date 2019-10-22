@@ -13,7 +13,6 @@ h1 {
   color: #b20953;
   text-align: center;
   margin: .3em;
-  padding: .2em;
 }
 
 h2 {
@@ -32,7 +31,7 @@ li {
 }
 
 a {
-  padding: .5em;
+  padding: .3em;
   color: #fff;
   text-decoration: none;
   background-color: #b2a212;
@@ -49,8 +48,8 @@ a:hover {
 header {
   background-color: #ffe500;
   text-align: center;
-  padding-top: .5em;
-  padding-bottom: .5em;
+  padding-top: .2em;
+  padding-bottom: .2em;
   margin: 0;
 }
 
