@@ -36,7 +36,7 @@ li {
 }
 
 a {
-  padding: .5em;
+  padding: .3em;
   color: #fff;
   text-decoration: none;
   background-color: #b2a212;
@@ -44,6 +44,7 @@ a {
   font-size: 1.125rem;
   display: inline-block;
   font-family: Georgia, serif;
+  line-height: 1.5rem;
 }
 
 a:hover {
@@ -66,6 +67,7 @@ p {
   margin: .3em;
   padding: 0 .3em;
   line-height: 1.5rem;
+  color: #2f2d13;
 }
 
 nav .current {
