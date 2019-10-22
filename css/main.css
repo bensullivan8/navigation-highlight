@@ -12,6 +12,8 @@ h1 {
   font-size: 3rem;
   color: #b20953;
   text-align: center;
+  margin: .3em;
+  padding: .2em;
 }
 
 h2 {
@@ -68,7 +70,7 @@ nav .current {
 
 footer {
   background-color: #ffe500;
-  padding: .3em;
+  padding: .75em;
   text-align: center;
   color: #2f2d13;
 }
