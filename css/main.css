@@ -12,7 +12,7 @@ h1 {
   font-size: 3rem;
   color: #b20953;
   text-align: center;
-  margin: .5em;
+  margin-bottom: .5em;
   margin-top: 0;
   padding-top: .5em;
 }
@@ -26,6 +26,8 @@ h2 {
 
 ul {
   padding-left: 0;
+  padding-right: 0;
+  margin: 0;
 }
 
 li {
@@ -56,12 +58,13 @@ header {
 
 body {
   margin: 0;
+  background: #fff;
 }
 
 p {
   font-family: Georgia, serif;
   margin: .3em;
-  padding: .2em;
+  padding: .5em;
 }
 
 nav .current {
