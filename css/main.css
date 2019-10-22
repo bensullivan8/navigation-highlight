@@ -29,7 +29,7 @@ background-color: #b2a212;
 border-radius: 4px;
 font-size: 1.125rem;
 display: inline-block;
-font-family: "Georgia", serif;
+font-family: Georgia, serif;
 }
 a:hover {
 background-color: #cc1465;
@@ -44,7 +44,7 @@ body {
 margin: 0;
 }
 p {
-font-family: "Georgia", serif;
+font-family: Georgia, serif;
 margin: .3em;
 padding: .2em;
 }
