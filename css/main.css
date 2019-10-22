@@ -22,7 +22,7 @@ h2 {
 }
 
 ul {
-  padding-left: 0;
+  padding: 0;
 }
 
 li {
@@ -47,7 +47,7 @@ a:hover {
 header {
   background-color: #ffe500;
   text-align: center;
-  padding: .5em;
+  padding: .5em 0em;
   margin: 0;
 }
 
