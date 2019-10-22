@@ -65,7 +65,7 @@ body {
 p {
   font-family: Georgia, serif;
   margin: .3em;
-  padding: .2em .3em;
+  padding: .75em .3em;
   line-height: 1.5rem;
   color: #2f2d13;
 }
@@ -80,6 +80,7 @@ footer {
   text-align: center;
   color: #2f2d13;
   margin-top: .3em;
+  line-height: 1.5rem;
 }
 
 img {
