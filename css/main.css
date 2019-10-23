@@ -87,10 +87,13 @@ footer {
 img {
   display: block;
   width: 100%;
-  padding-bottom: .5em;
 }
 
 main {
   margin: .3em;
   padding: .3em;
+}
+
+.berry {
+  padding-top: .3em;
 }
