@@ -99,6 +99,6 @@ main {
 }
 
 .berry {
-  margin-top: .3em;
   margin: .3em 0;
+  padding-top: .5em;
 }
