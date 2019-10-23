@@ -26,6 +26,10 @@ h2 {
   padding-top: .2em;
 }
 
+nav {
+  line-height: 1.5rem;
+}
+
 ul {
   padding-left: 0;
   padding-right: 0;
